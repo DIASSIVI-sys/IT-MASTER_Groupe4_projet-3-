@@ -63,7 +63,7 @@
 }
 /*responsive*/
 
-    /*tablette*/
+    /*tablette */
 @media (max-width: 1024px) {
     .projet-grid {
         grid-template-columns: repeat(2, 1fr);
