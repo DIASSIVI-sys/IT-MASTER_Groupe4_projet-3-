@@ -5,13 +5,14 @@
     font-family: 'Poppins', sans-serif;
 }
 
-
-/*style de la section réalisation*/
-
 #realisations h2{
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    color:#F5F6FB;
+}
+#realisations h4{
+    color: #F5F6FB;
 }
 #realisations p{
     text-align: center;
@@ -87,3 +88,4 @@
         padding: 0 20px;
     }
 }
+
