@@ -1,5 +1,5 @@
 # IT-MASTER_Groupe4_projet-3-
-Nom du groupe:IT-MASTER_GROUPE4_PROJET3
+Nom du groupe :IT-MASTER_GROUPE4_PROJET3
 
 Thème du projet:ce projet un site vitrine d'une agence de développement de création des sites web .
 
